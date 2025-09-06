@@ -96,10 +96,10 @@ Alcohol: 9.4
   ![Minkowski Distance](images/MinkowskiDistancevs.IndexforDifferentKValues.png)
 
 * **Euclidean Distance**
-  ![Euclidean Distance](images/Euclidean Distancevs.IndexforDifferentKValues.png)
+  ![Euclidean Distance](images/EuclideanDistancevs.IndexforDifferentKValues.png)
 
 * **Manhattan Distance**
-  ![Manhattan Distance](images/ManhattanDistancevs.Index forDifferentKValues.png)
+  ![Manhattan Distance](images/ManhattanDistancevs.IndexforDifferentKValues.png)
 
 ### Plot of All Values
 
