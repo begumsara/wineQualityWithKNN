@@ -83,23 +83,26 @@ Alcohol: 9.4
 
 ## Visualizations 📊
 
-### Accuracy vs K Values
+### Accuracy Changes With Different k Values
 
-![Accuracy vs K](images/accuracy_vs_k.png)
+![Accuracy vs K](images/Accuracy Changes With Different k Values.png)
 
 ### Distance Metrics vs Index
 
 * **Cosine Similarity**
-  ![Cosine Similarity](images/cosine_similarity.png)
+  ![Cosine Similarity](images/Cosine Similarity vs. Index for Different K Values.png)
 
 * **Minkowski Distance**
-  ![Minkowski Distance](images/minkowski_distance.png)
+  ![Minkowski Distance](images/Minkowski Distance vs. Index for Different K Values.png)
 
 * **Euclidean Distance**
-  ![Euclidean Distance](images/euclidean_distance.png)
+  ![Euclidean Distance](images/Euclidean Distance vs. Index for Different K Values.png)
 
 * **Manhattan Distance**
-  ![Manhattan Distance](images/manhattan_distance.png)
+  ![Manhattan Distance](images/Manhattan Distance vs. Index for Different K Values.png)
+
+  ### Plot of All Values
+![Plot of All Values](images/plotOfAllValues.png)
 
 > 💡 Tip: Save your plots as PNGs in `images/` folder using `plt.savefig("images/plot_name.png")`.
 
