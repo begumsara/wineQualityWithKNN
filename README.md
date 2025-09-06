@@ -101,7 +101,8 @@ Alcohol: 9.4
 * **Manhattan Distance**
   ![Manhattan Distance](images/Manhattan Distance vs. Index for Different K Values.png)
 
-  ### Plot of All Values
+### Plot of All Values
+
 ![Plot of All Values](images/plotOfAllValues.png)
 
 > 💡 Tip: Save your plots as PNGs in `images/` folder using `plt.savefig("images/plot_name.png")`.
