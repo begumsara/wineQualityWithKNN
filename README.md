@@ -85,21 +85,21 @@ Alcohol: 9.4
 
 ### Accuracy Changes With Different k Values
 
-![Accuracy vs K](images/Accuracy Changes With Different k Values.png)
+![Accuracy vs K](images/AccuracyChangesWithDifferentkValues.png)
 
 ### Distance Metrics vs Index
 
 * **Cosine Similarity**
-  ![Cosine Similarity](images/Cosine Similarity vs. Index for Different K Values.png)
+  ![Cosine Similarity](images/CosineSimilarityvs.IndexforDifferentKValues.png)
 
 * **Minkowski Distance**
-  ![Minkowski Distance](images/Minkowski Distance vs. Index for Different K Values.png)
+  ![Minkowski Distance](images/MinkowskiDistancevs.IndexforDifferentKValues.png)
 
 * **Euclidean Distance**
-  ![Euclidean Distance](images/Euclidean Distance vs. Index for Different K Values.png)
+  ![Euclidean Distance](images/Euclidean Distancevs.IndexforDifferentKValues.png)
 
 * **Manhattan Distance**
-  ![Manhattan Distance](images/Manhattan Distance vs. Index for Different K Values.png)
+  ![Manhattan Distance](images/ManhattanDistancevs.Index forDifferentKValues.png)
 
 ### Plot of All Values
 
