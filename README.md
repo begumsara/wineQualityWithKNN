@@ -83,7 +83,7 @@ Alcohol: 9.4
 
 ## Visualizations 📊
 
-### Accuracy Changes With Different k Values
+### Accuracy vs K Values
 
 ![Accuracy vs K](images/AccuracyChangesWithDifferentkValues.png)
 
